@@ -178,7 +178,7 @@ def binfill(df):
     return end_date, day_count
 
 
-print("Walking around in Cardiff one day I saw a wheelie bin, and asked myself, how long must that have taken, using MET data, now you can find out!")
+print("Walking around in Cardiff one day I saw a wheelie bin full of rain and asked myself \"how long must that have taken?\" Using MET data, now you can find out!")
 print("South East - 'seep', South West & North Wales - 'swep', Central - 'cep', North West & South Wales - 'nwep', ")
 print("North East - 'neep', South Scotland - 'ssp', North Scotland - 'nsp', East Scotland - 'esp', or Northern Ireland - 'nip'")
 
